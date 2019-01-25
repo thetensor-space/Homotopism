@@ -23,7 +23,7 @@ then
 else
     echo "Could not find TensorSpace, downloading..."
     cd "$PKGDIR"
-    git -q clone https://github.com/algeboy/TensorSpace
+    git clone -q https://github.com/algeboy/TensorSpace
 fi
 
 echo "Dependencies downloaded."
