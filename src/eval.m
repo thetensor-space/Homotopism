@@ -4,7 +4,7 @@
 */
 
 
-import "util.m" : ____GetFoliation, __ReverseFoliation;
+import "util.m" : __GetFoliation, __ReverseFoliation;
 
 
 // s: sequence of field elts, dims: sequence of dimensions for [V_vav, ..., V_0], F: a matrix in End(V_a), a: an int (in {0..vav}).
