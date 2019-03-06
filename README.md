@@ -1,2 +1,2 @@
 # Homotopism
-Homotopism Category Theory for Tensors
+Currently, this repo has been absorbed by [TensorSpace](https://github.com/thetensor-space/TensorSpace).
